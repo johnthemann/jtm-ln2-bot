@@ -28,4 +28,4 @@ https://sourceforge.net/projects/jtm-ln2-bot/files/latest/download
 - delay transition in tap quest when it is still in quest
 
 ## Video
-*To follow...*
+https://youtu.be/obkqfZXAhs8
